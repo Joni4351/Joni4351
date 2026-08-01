@@ -24,6 +24,13 @@
 **Backend, Database & Cloud**  
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,docker,postgres,mysql,nodejs,python,bash" alt="Backend" />
+  </a>
+</p>
+
+**Backend, Database & Cloud**  
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,nodejs,python,bash" alt="Backend" />
   </a>
 </p>
