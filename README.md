@@ -1,3 +1,5 @@
+# Hi there, I'm Jonathan Garrido 👋
+
 ### 🎓 Estudiante de Ingeniería en Informática | Fullstack, Cloud & Mobile Developer
 📍 Los Ángeles, Chile
 
