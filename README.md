@@ -55,11 +55,11 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-garrido/" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-garrido-94a241272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:jonathan.garrido2@virginiogomez.cl">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
